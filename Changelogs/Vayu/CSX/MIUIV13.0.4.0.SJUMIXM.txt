@@ -1,0 +1,38 @@
+Changelog of MIUI CSX 13.0.4
+July 10, 2022 by @ConSciousX_Ashik
+• Encrypted and Decrypted ROM
+
+• Initial Monet support in Setting, Phone, Contact Message, Control Center. Support Light and Dark Mode
+
+• New Leica Camera App
+
+• New MIUI Launcher with lots of Options 
+
+• Updated  Security App
+
+• Fully Debloated,No Useless Apps
+
+• 90 Hz refresh rate option in display section
+
+• 90 Fps in PUBGM/BGMI
+
+• Improved performance and Aim Assist 
+
+• New Extended Power Menu(turn on extended powermenu from developer options)
+
+• System apps updated
+
+• Screen Shot with device frame 
+
+• Added Unlimited Google Photos
+
+• 90 Fps in Screen Recorder
+• Added Touch and Performance Tweak 
+
+• ConSciousX Wallpaper Section in Theme Library
+
+• No 10 Seconds Permission Popup
+
+• based on xiaomi eu V13.0.4.0.SJUMIXM
+
+• Some more changes I don't remember
